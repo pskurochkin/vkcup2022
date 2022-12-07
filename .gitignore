@@ -1,0 +1,15 @@
+# virtual environment
+venv/
+
+# data directory
+*/data/
+
+# task1
+task1/models/word2vec/
+
+# python cache
+*/__pycache__/
+
+# ipynb cache and notebooks
+*/.ipynb_checkpoints/
+*/*.ipynb
