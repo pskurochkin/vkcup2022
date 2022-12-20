@@ -5,7 +5,7 @@ venv/
 */data/
 
 # task1
-task1/models/word2vec/
+task1/models/*
 
 # python cache
 */__pycache__/
